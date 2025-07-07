@@ -1,0 +1,1 @@
+for i in *.txt ; do awk '$7 ~/stop_gained/ || $7 ~/start_lost/ || $7 ~/missense_variant/ || $7 ~/incomplete_terminal_codon_variant/ || $7 ~/synonymous_variant/ || $7 ~/coding_sequence_variant/ {print $0}' $i > ${i%????}.filtered.txt ; done
