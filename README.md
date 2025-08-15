@@ -1,2 +1,2 @@
-# PhD_Scripts
-PhD Scripts
+# Bioinformatics_Scripts
+Bioinformatics Scripts
