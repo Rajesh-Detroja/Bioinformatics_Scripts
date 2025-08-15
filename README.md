@@ -1,2 +1,2 @@
-# Bioinformatics_Scripts
+# Bioinformatics Scripts
 Bioinformatics Scripts
